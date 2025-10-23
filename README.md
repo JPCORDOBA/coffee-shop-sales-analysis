@@ -203,7 +203,7 @@ This methodology can be applied to any retail business with transaction data, ma
 
 **👨‍💻 Data Scientist:** Juan Pablo Cordoba  
 **📧 Email:** [cordobajp@hotmail.com](mailto:cordobajp@hotmail.com)  
-**🎓 Education:** Data Science - UTN BA  
+**🎓 Education:** Data Science (UTN Buenos Aires); PhD Life Sciences (UNMDP Argentina)  
 **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/juan-pablo-cordoba-26061021/)
 
 ### 🔗 Portfolio Links
@@ -219,3 +219,4 @@ This methodology can be applied to any retail business with transaction data, ma
 
 
 *This project showcases my expertise in data science, machine learning, and business intelligence, demonstrating the ability to translate complex data into actionable business insights.*
+
