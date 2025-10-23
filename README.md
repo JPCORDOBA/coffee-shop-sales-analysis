@@ -204,11 +204,11 @@ This methodology can be applied to any retail business with transaction data, ma
 **👨‍💻 Data Scientist:** Juan Pablo Cordoba  
 **📧 Email:** [cordobajp@hotmail.com](mailto:cordobajp@hotmail.com)  
 **🎓 Education:** Data Science - UTN BA  
-**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/juan-pablo-cordoba) *(add your LinkedIn)*
+**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/juan-pablo-cordoba-26061021/)
 
 ### 🔗 Portfolio Links
-- **GitHub:** [View my other projects](https://github.com/yourusername) *(add your GitHub)*
-- **Kaggle:** [Data Science Competitions](https://kaggle.com/yourusername) *(optional)*
+- **GitHub:** [View my other projects](https://github.com/JPCORDOBA)
+- **Kaggle:** [Data Science Competitions](https://www.kaggle.com/juanpablocordoba)
 
 ---
 
@@ -216,5 +216,6 @@ This methodology can be applied to any retail business with transaction data, ma
 ✅ **Complete** - Ready for production deployment  
 🔄 **Maintained** - Regular updates and improvements  
 📈 **Scalable** - Architecture supports larger datasets  
+
 
 *This project showcases my expertise in data science, machine learning, and business intelligence, demonstrating the ability to translate complex data into actionable business insights.*
